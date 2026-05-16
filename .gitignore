@@ -1,0 +1,16 @@
+# Personal data — never commit
+ai-loops-data/
+*.local.md
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
